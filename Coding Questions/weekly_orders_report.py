@@ -1,3 +1,7 @@
+"""Weekly Orders Report
+For each week, find the total number of orders. Include only the orders that are from the first quarter of 2023.
+The output should contain 'week' and 'quantity'."""
+
 # Import necessary libraries
 import pandas as pd
 
